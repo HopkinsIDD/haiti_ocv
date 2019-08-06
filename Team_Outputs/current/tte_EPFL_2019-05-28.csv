@@ -1,0 +1,7 @@
+"team","scenario","t_elim_thresh1_med","t_elim_thresh1_low","t_elim_thresh1_hi","t_elim_thresh2_med","t_elim_thresh2_low","t_elim_thresh2_hi","vacc_startdate"
+"EPFL","S0",1,1,7,1,1,22,"2019-01-12"
+"EPFL","S1",49,1,82,60,1,93,"2019-01-12"
+"EPFL","S2",37,1,143.375,48.5,1,158.75,"2019-01-12"
+"EPFL","S3",112,1,256,123,1,269.3,"2019-01-12"
+"EPFL","S4",61,1,167.975,74,1,181,"2019-01-12"
+"EPFL","S25",48,1,81,61,1,93,"2019-01-12"

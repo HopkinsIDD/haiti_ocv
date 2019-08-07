@@ -17,7 +17,9 @@ This folder contains the following team model outputs at two elimination thresho
 * `tte_...`: time to elimination summary statistics for each vaccine deployment scenario
 
 ## Model Codes
-All model inputs and codes are available at the following DOI links:
+The central supplement information is located at DOI: 10.5281/zenodo.3361801.
+
+All team-specific model inputs and codes are available at the following DOI links:
 * Model-1, Johns Hopkins Bloomberg School of Public Health: 10.5281/zenodo.3360991
 * Model-2, Fred Hutchinson Cancer Research Center and University of Florida: 10.5281/zenodo.3360857
 * Model-3, École Polytechnique Fédérale de Lausanne: 10.5281/zenodo.3360723
